@@ -1,10 +1,12 @@
 # BikeHelmetsDetec
-Bike Helmets Detection
+Bike Helmets Detection + counter
 
 Final project for a Python dev - AI-oriented training @Digital.City
 
 Data was scraped on Google, from scratch
 Data was labeled by me through ROBOFLOW. I also used ROBOFLOW to preprocess and augment the data
+
+I developed a counter, that still needs to be optimized :))
 
 Exported the final version of the Data on Colab to fine-tune a pre-trained YOLOv8 model 
 
